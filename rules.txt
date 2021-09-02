@@ -1,0 +1,2 @@
+1. Wrong values entered by player would be considered as wrong values and computer would win the round
+2. Cheating would lead to disqualification
